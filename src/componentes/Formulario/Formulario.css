@@ -1,0 +1,27 @@
+.formulario {
+  display: flex;
+  justify-content: center;
+  margin: 80px 0;
+
+}
+
+
+.formulario form {
+    max-width: 80%;
+    background: #F2F2F2;
+    border-radius: 20px;
+    padding: 36px 64px;
+    box-shadow: 8px 8px 16px rgba(0, 0, 0, 0.8);
+}
+.formulario button {
+    width: 100%;
+    padding: 20px 32px;
+    border: none;
+    border-radius: 10px;
+    background: #6278F7;
+    color: white;
+    font-size: 20px;
+    font-style: Montserrat;
+    cursor: pointer;
+    margin-top: 20px;
+}

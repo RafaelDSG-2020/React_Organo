@@ -1,0 +1,32 @@
+.campo-texto {
+    /* width: 100%;
+    padding: 10px; */
+    margin: 24px 0;
+    /* border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px; */
+}
+
+.campo-texto label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 24px;
+    font-style: Montserrat;
+    font-weight: semi-bold;
+}
+
+.campo-texto input {
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 100%;
+    padding: 24px;
+    border: none;
+    font-size: 24px;
+    box-sizing: border-box;
+    
+    /* padding: 10px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px; */
+}
